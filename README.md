@@ -1,16 +1,32 @@
-## Hi there 👋
+# ASTROXZ 👋
 
-<!--
-**ASTROXZ077/ASTROXZ077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Turning ideas into experiments, code into tools, and curiosity toward the unknown.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Aaron**, a Computer Engineering student who enjoys turning ideas into real, working projects.
+
+I'm more of an **idea creator and builder** than a traditional coder. I use AI as a development partner to help turn concepts into working software, while learning and understanding what I'm building along the way.
+
+### 🛠️ What I Work With
+
+**Languages & Technologies**
+
+* 🐍 Python
+* 🌐 HTML, CSS & JavaScript
+* ⚙️ C & C++
+* 🗄️ MySQL
+
+### 🤖 How I Build
+
+**Idea → Experiment → AI-assisted development → Working project**
+
+I enjoy taking an idea that doesn't exist yet and figuring out how to actually make it work.
+
+### 🚀 Currently
+
+* Building and experimenting with personal projects
+* Learning through hands-on development
+* Exploring new ways to turn ideas into useful software
+**Think it. Build it. Improve it.**
+
